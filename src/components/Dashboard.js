@@ -16,7 +16,7 @@ function Dashboard() {
       <Typography variant="h6" component="h2">
         Einnahmen & Ausgaben
       </Typography>
-      <Typography>Verwalte deine Einnahmen und Ausgaben</Typography>
+      <Typography>Verwalte deine Einnahmen und Ausgaben...</Typography>
     </CardContent>
   </Card>
 </Grid>
